@@ -20,3 +20,5 @@ Para conseguir mediciones satisfactorias se requiere alimentar el sensor HC-SR04
 - HC-SR04 es distinto al HC-SR04+, éste último trabaja con 3.3V directamente mientras que el primero requiere 5V para su correcto funcionamiento.
 
 - Para mejor comprensión, revisar el diagrama adjunto.
+
+- Tener en cuenta que la aplicación puede mejorarse al implementar un sensor de temperatura, pues la velocidad de sonido varía con la tmeperatura ambiente.
