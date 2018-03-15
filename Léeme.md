@@ -1,8 +1,10 @@
 # Ultrasonic-Sensor
-Esta es una versión en español sobre cómo utilizar un sensor HC-SR04 con NodeMCU (ESP8266)
+Esta es una versión en español sobre cómo utilizar un sensor HC-SR04 con NodeMCU (ESP8266), la aplicación sirve para medir la distancia del sensor hacia un objeto.
+
+El código empleado esta desarrollado en Micropython (uPython).
 
 # Elementos
-Para conseguir mediciones satisfactorias se requiere alimentar el sensor HC-SR04 con 5 voltios, para ellos existen varias opciones. Sin embargo, en éste instructivo se utilizó un elevador de voltaje.
+Para conseguir mediciones satisfactorias se requiere alimentar el sensor HC-SR04 con 5 voltios, para ellos existen varias opciones. Sin embargo, en éste instructivo en particular se utilizó un elevador de voltaje.
 
 - NodeMCU
 - Sensor ultrasónico HC-SR04
